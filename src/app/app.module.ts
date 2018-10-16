@@ -8,12 +8,14 @@ import {RouterModule} from '@angular/router';
 import {HttpModule} from '@angular/http';
 import { AppRoutingModule } from './app-routing.module';
 import { NavComponent } from './Nav/Nav.component';
+import { FooterComponent } from './css/Footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    NavComponent
+    NavComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

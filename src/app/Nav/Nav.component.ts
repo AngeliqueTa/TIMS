@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-nav',
-  templateUrl: './nav.component.html'
+  templateUrl: './nav.template.html'
 })
 export class NavComponent {
   title = 'Timmeehhh';
