@@ -117,6 +117,8 @@ body{font-family: 'Open Sans','Trebuchet MS','Tahoma','Arial';background:#ffffff
 .h20p{height:20%;}
 .h30p{height:30%;}
 .maxh135px{max-height:135.625px;}
+.maxh480px{max-height:480.65px;}
+.maxh495px{max-height:495.65px;}
 .s20px{size:20px;}
 .no-border{border-radius:0px;}
 .rad0px{border-radius:0px;}
@@ -383,7 +385,7 @@ input.ng-invalid,input.ng-invalid-required,input.ng-invalid-email{
 .specs-details-divider{margin:10px;border-bottom:1px dotted silver;}
 
 .container-footer-padding{padding: 20px;}
-.footer-background{background-color: #efefef;}
+.footer-background{background-color: #2D2D2C;}
 .container-footer-bottom{bottom:0px;font-size:10px;max-width:100%;width:100%;z-index:10;margin-left:140px;margin-right:140px;}
 .label-white{background-color: white;border: 1px solid;color: grey;font-weight: normal;padding: .2em .6em .2em;}
 
