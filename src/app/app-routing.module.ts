@@ -1,11 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HomeComponent } from './Home/Home.component';
-import { Tim1Component } from './Tim1/Tim1.component';
-import { ContactUsComponent } from './ContactUs/Contactus.component';
-import { Tim2Component } from './Tim2/Tim2.component';
-import { Tim3Component } from './Tim3/Tim3.component';
-import { Tim4Component } from './Tim4/Tim4.component';
+import { HomeComponent } from './Views/Home/Home.component';
+import { Tim1Component } from './Views/Tim1/Tim1.component';
+import { Tim2Component } from './Views/Tim2/Tim2.component';
+import { Tim3Component } from './Views/Tim3/Tim3.component';
+import { Tim4Component } from './Views/Tim4/Tim4.component';
+import { ContactUsComponent } from './Views/ContactUs/Contactus.component';
+
 
 
 const routes: Routes = [
